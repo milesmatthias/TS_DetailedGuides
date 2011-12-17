@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/miels/TS_DetailedGuides/video/build/iphone/Classes/AFOpenFlow/AFUIImageReflection.m \
+  /Users/miels/TS_DetailedGuides/video/build/iphone/Classes/AFOpenFlow/AFUIImageReflection.h
